@@ -1,0 +1,75 @@
+[
+    {
+        "tag": "salam",
+        "input": [
+            "hai",
+            "halo",
+            "selamat pagi",
+            "selamat siang",
+            "selamat sore"
+        ],
+        "responses": [
+            "Halo! Ada yang bisa saya bantu?",
+            "Hai! Ada yang bisa dibantu?",
+            "Halo! Bagaimana saya bisa membantu?",
+            "Selamat datang! Ada yang bisa dibantu?"
+        ]
+    },
+    {
+        "tag": "selamat_tinggal",
+        "input": [
+            "selamat tinggal",
+            "sampai jumpa",
+            "dadah",
+            "saya pergi dulu"
+        ],
+        "responses": [
+            "Sampai jumpa! Semoga harimu menyenangkan!",
+            "Selamat tinggal, sampai jumpa lagi!",
+            "Semoga harimu menyenangkan! Sampai jumpa!",
+            "Dadah! Kapan saja butuh bantuan, hubungi saya lagi ya."
+        ]
+    },
+    {
+        "tag": "terima_kasih",
+        "input": [
+            "terima kasih",
+            "makasih",
+            "sangat membantu",
+            "saya menghargainya"
+        ],
+        "responses": [
+            "Sama-sama!",
+            "Senang bisa membantu!",
+            "Kapan saja! Jangan ragu untuk bertanya lagi.",
+            "Senang bisa membantu, semoga bermanfaat!"
+        ]
+    },
+    {
+        "tag": "jam_kerja",
+        "input": [
+            "jam berapa buka",
+            "kapan buka",
+            "jam kerja",
+            "jam operasional"
+        ],
+        "responses": [
+            "Kami buka dari jam 9 pagi hingga 5 sore, Senin hingga Jumat.",
+            "Jam operasional kami adalah pukul 9 pagi hingga 5 sore, hari kerja saja.",
+            "Kami buka dari jam 9 pagi hingga 5 sore, Senin sampai Jumat. Ada yang bisa saya bantu?"
+        ]
+    },
+    {
+        "tag": "layanan",
+        "input": [
+            "layanan apa yang tersedia",
+            "apa saja layanan yang ditawarkan",
+            "bisa bantu apa saja"
+        ],
+        "responses": [
+            "Kami menawarkan berbagai layanan, termasuk konsultasi, dukungan, dan layanan pelanggan. Ada yang bisa kami bantu?",
+            "Layanan kami meliputi konsultasi, dukungan, dan pelatihan. Ingin informasi lebih lanjut?",
+            "Kami spesialis dalam konsultasi dan dukungan. Ada yang bisa dibantu?"
+        ]
+    }
+]

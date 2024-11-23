@@ -1,6 +1,9 @@
 # Pestbusters 🌱🐛  
 **Pest Detection for Leafy Vegetables in Hydroponic Farming**  
 
+🚧 **This project is currently under construction.** 🚧  
+We are actively working on building a robust solution for pest detection in hydroponic farming. Stay tuned for updates!  
+
 Pestbusters is a machine learning-based solution to detect pests in leafy vegetables, specifically designed to support hydroponic farming. By leveraging cutting-edge object detection models like YOLO and TFOD, Pestbusters empowers farmers and enthusiasts to maintain healthy crops and maximize yield.  
 
 ---

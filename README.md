@@ -6,7 +6,7 @@ Pestbusters is a machine learning-based solution to detect pests in leafy vegeta
 ---
 
 ## 🛠️ Features  
-- **Real-time Pest Detection**: Identify pests on leafy vegetables with high accuracy using mobile devices or cameras.  
+- **Pest Detection**: Identify pests on leafy vegetables with high accuracy using mobile devices or cameras.  
 - **Hydroponic Focus**: Optimized for pest challenges specific to hydroponic farming systems.  
 - **Interactive Chatbot**: Provides pest identification and tailored control recommendations.  
 - **Specialized Dataset**: Includes labeled images of pests found on leafy vegetables in hydroponic environments.  

@@ -1,4 +1,4 @@
-# Pestbusters 🌱🐛
+![image](https://github.com/user-attachments/assets/3932033d-ba21-4677-bd43-86d5a3ab66ad)# Pestbusters 🌱🐛
 
 **Pest Detection for Leafy Vegetables in Hydroponic Farming**
 
@@ -32,3 +32,32 @@ Pestbusters is a machine learning-based solution to detect pests in leafy vegeta
 - **Classification Models**: Tensorflow Object Detection (TFOD).
 - **Frameworks**: TensorFlow and PyTorch for training and inference.
 - **Mobile Integration**: For Android.
+
+--
+
+## 🗂️ Results The Dataset we Collected
+https://app.roboflow.com/capstone-pestbuster-bangkit-2024/pestbuster/1
+
+--
+
+## 📚 Library required
+- ultralytics
+- opencv-python
+- matplotlib
+- tensorflow==2.8.0
+- tensorflow-io==0.23.1
+- protobuf==3.20.*
+
+## 🖼️ Trained model preview test
+### Tensorflow Object Detection
+- Tensor Board
+![image](https://github.com/user-attachments/assets/18d1091d-d4da-48ea-9f18-25909de86cfe)
+
+![image](https://github.com/user-attachments/assets/96741f89-c7b1-4259-9aba-6415de4545aa)
+![image](https://github.com/user-attachments/assets/1fac546f-c9d5-4071-b8cc-b94a99a04614)
+
+
+### YOLO v11
+- Metrics Acuracy
+![WhatsApp Image 2024-12-09 at 19 53 13_e20055d1](https://github.com/user-attachments/assets/008f7770-9a8a-4438-b55a-0fea5357c1bd)
+![image](https://github.com/user-attachments/assets/f4fe7a65-dc5a-4239-93af-6ba5c3929e9b)

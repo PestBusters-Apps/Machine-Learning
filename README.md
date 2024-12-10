@@ -31,14 +31,15 @@ Pestbusters is a machine learning-based solution to detect pests in leafy vegeta
 - **Object Detection**: YOLO (You Only Look Once) for real-time pest detection.
 - **Classification Models**: Tensorflow Object Detection (TFOD).
 - **Frameworks**: TensorFlow for training and inference.
-- **Mobile Integration**: For Android.
+- **Mobile Integration**: Developed natively for Android using **Kotlin**.
+- **API Endpoint**: Built with **python** programming language using **Flask** library and Deployed using **Google Cloud Run**.
 
---
+---
 
 ## 🗂️ Results The Dataset we Collected
 https://app.roboflow.com/capstone-pestbuster-bangkit-2024/pestbuster/1
 
---
+---
 
 ## 📚 Library required
 - ultralytics

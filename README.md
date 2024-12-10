@@ -30,7 +30,7 @@ Pestbusters is a machine learning-based solution to detect pests in leafy vegeta
 
 - **Object Detection**: YOLO (You Only Look Once) for real-time pest detection.
 - **Classification Models**: Tensorflow Object Detection (TFOD).
-- **Frameworks**: TensorFlow and PyTorch for training and inference.
+- **Frameworks**: TensorFlow for training and inference.
 - **Mobile Integration**: For Android.
 
 --

@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3932033d-ba21-4677-bd43-86d5a3ab66ad)# Pestbusters 🌱🐛
+# Pestbusters 🌱🐛
 
 **Pest Detection for Leafy Vegetables in Hydroponic Farming**
 
